@@ -1,8 +1,9 @@
 # JTAG-Permutator
 A low-cost USB tool for identifying pinouts of possible JTAG programming/debug interfaces on electronics.
 <p align="center">
-  <img src="https://i.imgur.com/cmikTXL.jpg" width="350"/>
-  <img src="https://imgur.com/1QK74E8.jpg" width="350"/>
+  <img src="https://i.imgur.com/cmikTXL.jpg" width="250"/>
+  <img src="https://imgur.com/1QK74E8.jpg" width="250"/>
+  <img src="https://imgur.com/mtfjIon.jpg" width="250"/>
 </p>
 
 ## License
