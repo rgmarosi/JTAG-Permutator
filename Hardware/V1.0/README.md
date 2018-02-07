@@ -12,4 +12,5 @@
 # Planned changes
 1. Pull up C2CK pin of microcontroller to 5V rail using 1kOhm resistor.
 2. Remove programming header once bootloader is figured out and firmware is functioning as intended. Keep C2 interface and power rail test points.
-3. More to come...
+3. Add silkscreen pin table for probe cable if space permits.
+4. More to come...
