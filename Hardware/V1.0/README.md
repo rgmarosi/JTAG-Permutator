@@ -8,6 +8,10 @@
 - The fab & assembly house I used for this first prototype was [MacroFab](https://macrofab.com/). Another good self-serve fab & assembly house is [PCB:NG](https://www.pcb.ng/).
 - I don't yet know if the onboard buck regulator (SC195) output is tri-stated when disabled. I need to test it. For now, don't connect the target power rail to powered targets. Only use it if you're powering the target using the JTAG Permutator.
   - Maximum current output of the buck regulator is ~500mA.
+## Pull-up resistor fix
+<p align="left">
+  <img src="https://imgur.com/CCmz2Ln.jpg" width="350"/>
+</p>
 
 # Planned changes
 1. Pull up C2CK pin of microcontroller to 5V rail using 1kOhm resistor.
