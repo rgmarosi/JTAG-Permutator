@@ -17,4 +17,4 @@ The JTAG Permutator design is also distributed under the [Creative Commons Attri
 3. Removed screw terminals
 4. Reduced IO channels from 24 down to 8
 5. Used different level translator IC (target voltage range is now 0.8V~3.3V) (to be verified)
-6. Reduced boad area from 13.6 square inches down to 1.7 square inches
+6. Reduced board area from 13.6 square inches down to 1.7 square inches
